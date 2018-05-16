@@ -1,6 +1,7 @@
-import os
+"""
+docstring
+"""
 
-import pandas as pd
 
 def predict(row, weights):
     """
